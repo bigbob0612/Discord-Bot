@@ -1,12 +1,11 @@
-Here is your content translated into English, formatted for a professional GitHub README:
 
 ---
 
-# **AI_Baena Discord Bot Project**
+# Discord Bot Project**
 
 ## 🌟 **Project Overview**
 
-- **Project Name**: AI_Baena  
+- **Project Name**:  Discord Bot
 - **Objective**: Provide convenient tools and information for Lost Ark players.  
 - **Development Period**: [2024.11.25 ~ 2025.01.01]  
 - **Technologies Used**:  
@@ -49,7 +48,7 @@ Here is your content translated into English, formatted for a professional GitHu
 ## 📁 **Directory Structure**
 
 ```
-/AI_baena/
+/Discord Bot/
 ├── config/
 │   ├── settings.json               # API keys and prefix settings
 ├── Pipfile                         # Virtual environment setup file
