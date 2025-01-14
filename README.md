@@ -106,7 +106,7 @@
 
 ## ✨ **Contributors**
 
-- **Developer**: [GitHub Profile](https://github.com/phone0137)  
+- **Developer**: [GitHub Profile]([https://github.com/phone0137](https://github.com/bigbob0612))  
 - **Contact**: [phone0137@naver.com](mailto:phone0137@naver.com)  
 
 ---
