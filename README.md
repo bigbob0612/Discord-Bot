@@ -115,7 +115,7 @@
 
 - **Documentation**: [GitHub README Link](https://chatgpt.com/c/6775d9a8-e284-8008-8183-8bb2978e4212#)  
 - **Related Resources**:  
-  1. [test sever]([https://chatgpt.com/c/6775d9a8-e284-8008-8183-8bb2978e4212#](https://discord.gg/t6zP2VZBfP))
+  1. [test sever](https://discord.gg/t6zP2VZBfP)
   2. [User Manual](https://www.notion.so/168e097ee3538018b97dff75540d2f04?pvs=21)  
 
 ---
