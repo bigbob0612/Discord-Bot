@@ -1,0 +1,21 @@
+{
+    "bot": {
+        "token": "",
+        "prefix": "!"
+    },
+    "server": {
+        "token": ""
+    },
+    "database": {
+        "type": "sqlite",
+        "file": "database.db"
+    },
+    "lostark": {
+        "key": ""
+    },
+    "notion": {
+        "token": "",
+        "db_id": "",
+        "url": ""
+    }
+}
