@@ -54,10 +54,7 @@
 ├── Pipfile                         # Virtual environment setup file
 ├── Pipfile.lock                    # Locked virtual environment dependencies
 ├── src/
-│   ├── vote.db                     # Voting database file
-│   ├── raid.db                     # Raid database file
 │   ├── server.py                   # Sub bot file
-│   ├── auth_channels.db            # Authentication channel database
 │   ├── bot.py                      # Main bot file
 │   ├── utils/                      # Utility modules directory
 │   │   ├── music_db.py             # Music database utilities
