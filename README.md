@@ -111,12 +111,6 @@
 
 ---
 
-## 🖼️ **Screenshots**
-
-[Bot Execution Screenshot](https://www.notion.so/c521c64a7b1c4f85aa64629a7c21f134?pvs=21)  
-
----
-
 ## 💡 **Additional Information**
 
 - **Documentation**: [GitHub README Link](https://chatgpt.com/c/6775d9a8-e284-8008-8183-8bb2978e4212#)  
